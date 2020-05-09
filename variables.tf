@@ -23,7 +23,8 @@ variable "egress_cidr_blocks" {type = "list"}
 variable "az1" {}
 variable "az2" {}
 variable "az3" {}
-
+variable "java_version" {}
+variable "jenkins_version" {}
 
 
 variable "tags" {
