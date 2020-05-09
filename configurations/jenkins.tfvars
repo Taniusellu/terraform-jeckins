@@ -29,7 +29,8 @@ s3_folder_type                  =   	"tools"
 
 s3_tfstate_file                 =   	"jenkins.tfstate"
 
-
+java_version            = "-1.8.0-openjdk-devel"
+jenkins_version         = "jenkins"
 
 
 sg_name = "allow_tls"
