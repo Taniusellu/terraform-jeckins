@@ -18,7 +18,7 @@ nat_cidr_block = "0.0.0.0/0"
 private_subnet1 = "10.0.1.0/24"
 private_subnet2 = "10.0.2.0/24"
 private_subnet3 = "10.0.3.0/24"
-key_name = "silvia_bastion"
+key_name = "taniusa_bastion"
 
 instance_type = "t2.medium"
 ami = "ami-0323c3dd2da7fb37d"
