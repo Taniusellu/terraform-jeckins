@@ -12,7 +12,7 @@ On this folder you can find how to install Jenkins through terraform!
 
 * add the passwd
 
-<img width="650" alt="Screenshot_860" src="https://user-images.githubusercontent.com/13994900/81083088-c1382e80-8eb9-11ea-92fd-147bad592e57.png">
+<img width="650" alt="Screenshot_860" src="https://user-images.githubusercontent.com/13994900/81083088-c1382e80-8eb9-11ea-92fd-147bad592e57.png"> 
 
 
 * click on the first one to install pluggins
